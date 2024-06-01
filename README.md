@@ -63,7 +63,7 @@ En el final malo el protagonista recuerda que su estancia aquí es su propia dec
 ### 2.2. Esquema de navegación 
 
 
-![esquema]()
+![esquema](https://github.com/Hissz1/hissz1.github.io/blob/main/Esquema.PNG)
 
 
 ### Etapa 1: Ideación de proyecto
