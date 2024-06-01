@@ -10,25 +10,21 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Titulo** : ORPHEUS: Todo el tiempo del mundo
 
-**Web:**   https://    (url github.io)
+**Web:**   https://hissz1.github.io/
 
-**Github:** https://    (url https://github.com/.... )
+**Github:** https://github.com/Hissz1/hissz1.github.io
 
 **Autor:**  Jasper Dubei Arghir
 
-**Resumen** : Desde que el protagonista despierta en un mundo vacío ha continuado su rutina. En su cumpleaños, una figura cambia la forma en que entiende su condena.
+**Resumen** : "Desde que el protagonista despertó en un mundo vacío ha continuado su rutina para evadir la realidad. En su cumpleaños, una figura cambia la forma en que entiende su condena." Este juego de decisiones es una obra conceptual que trata el tema de la entrada tardía a la adultez.
 
-**Estilo/género:**  Novela visual.
-
-**Logotipo** : 
-
-
+**Estilo/género:**  Novela visual. Elecciones.
 
 **Resolución:** 800x600px Ajustable
 
 **Probado en:**   Google Chrome y Edge
 
-**Tamaño proyecto:** 41.8MB .hani, 6.09MB carpeta.
+**Tamaño proyecto:** 41.8MB .hani, 6.09MB media.
 
 **Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
 
@@ -42,8 +38,10 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 ### 2.1 Storyboard: 
 
-El trailer es ua introducción al sistema de juego. El persoaje se despierta y se prepara para comenzar su rutina.
+El trailer es una introducción al sistema de juego. El personaje se despierta y se prepara para comenzar su rutina.
 Tras una introducción se da paso al menú.
+
+![menu]()
 
 Al comienzo del juego se repite una escena similar a la del trailer, con variación de texto. 
 El protagonista se encuentra inquieto por ser su cumpleaños, un cambio en la rutina que le mantiene cuerdo.
@@ -53,8 +51,7 @@ A la entrada de la tienda se presenta la decisión clave de la historia.
 Por un lado, el protagonista puede intentar seguir la rutina y apartar la novedad de su mente.
 Por otro lado, puede perseguir ese sentimiento nuevo que ha surgido en su cumpleaños y desviarse un tiempo, rompiendo sus propias normas.
 
-En ambos casos acaba entrando a trabajar y encuentra al dependiente, una entidad no humana que le hace compañía para recordarle que no se salga de la rutina.
-En esta ocasión le habla como si fuese una persona normal.
+En ambos casos acaba entrando a trabajar y encuentra al dependiente, una entidad no humana que le hace compañía para recordarle que no se salga de la rutina. En esta ocasión le habla como si fuese una persona normal.
 El protagonista decide aprovechar esta oportunidad para buscar respuestas sobre por qué está aquí y cómo salir.
 
 Sucede entre conversaciones un minijuego en el que el protagonista debe iniciar su trabajo ordenando una lata en su estantería correspondiente.
@@ -66,20 +63,29 @@ En el final malo el protagonista recuerda que su estancia aquí es su propia dec
 ### 2.2. Esquema de navegación 
 
 
-
-(imagen con las distintas pantallas de navegación, usa draw.io o cualquier programa de dibujo)
+![esquema]()
 
 
 ### Etapa 1: Ideación de proyecto
 
 **Investigación de campo** (propuestas inspiradoras para el proyecto)
 
+Se pretendía crear un juego de aspecto lúgubre, que combinase escenarios reales con un posterizado que lo modificase hasta entrar en lo decadente. El ambiente general debía ser tranquilo pero lúgubre, tomando como inspiración diversos diseños de otros juegos que tratan la muerte o el inframundo como un lugar de lamento. El Hades descrito en la mitología griega es de gran similitud, descontando las libertades creativas de su ubicación en un entorno urbano actual. Sería un buen punto de apoyo teniendo en cuenta que este es el infierno personal del protagonista. Se presta especial atención así a qué hace sentir en general el entorno. El protagonista hace el papel de alma en pena, vagando por lugares carentes de vida como un ente carente de vida también.
 
+La idea para el título viene del mito de Orfeo. Su amada Eurídice es mordida por una serpiente y Orfeo debe bajar al Hades para suplicar por su alma. La condición de su retorno tras numerosas adversidades superadas es que puede irse de vuelta a la superficie sabiendo que su amada le seguirá. Si duda de que ella esté detrás y se gira para asegurarse, la perderá para siempre. No es hasta la salida que Orfeo no aguanta más la duda y se gira para encontrarla detrás suya, instantes antes de que sea apresada y devuelta a los infiernos.
+
+Para este juego el protagonista es Orfeo y Eurídice al mismo tiempo. Representa la víctima atrapada y al mismo tiempo la única persona que puede salvarla. Es su duda en su propia honestidad lo que termina en la perdición. También es en cierto modo serpiente, responsable de su predicamento y saboteando su propia visión de la vida hasta ahogarla en nihilismo. La figura de la historia es más similar al papel de Hades, que permite la salvación pero resalta la importancia de la confianza y la fe, con todas sus consecuencias.
+
+Dos juegos han tenido gran influencia en la interfaz y en la filosofía del proyecto. En primer lugar se buscaron referencias de otras novelas visuales que tuviesen la estética seleccionada.
+
+El primero es "Milk inside a bag of milk inside a bag of milk". En este juego la protagonista es una chica afectada por múltiples trastornos mentales. El único objetivo del juego es su salida de casa para comprar leche. Lo que es una acción sencilla y cotidiana para muchos se convierte en una experiencia de angustia y gran dificultad para una persona con estos problemas. Su entorno por tanto se ve modificado acorde a su mente y el ambiente en el que se desarrolla la historia comparte mucha similitud con el tratamiendo dado a Orpheus. En ocasiones los diálogos desvarían y parecen solo tener sentido para el propio protagonista. Está repleto de referencias a numerosas piezas culturales o experiencias concretas que no necesitan ser explicadas al espectador porque su sentido también se completa al no comprenderse.
+
+El segundo juego es "Nier:Cogito". Es un juego fanmade inspirado en Nier:Automata. En el juego original se cuenta la historia de una lucha entre humanidad y androides, comentando la línea entre proceso mecánico y emoción humana. Nier:Cogito explora desde una interfaz muy simple las implicaciones filosóficas de lo que es estar vivo como un humano. Despiertas con esa interfaz minimalista y se te presenta que eres una máquina creada por los humanos destinado a erradicar todo androide. Con la única posibilidad de elegir sí o no, se te presentan diferentes cuestiones filosóficas similares al "trolley problem" donde poco a poco deja de haber una decisión mejor objetivamente y solo importa la moral de la acción. El conflicto entre estar o no vivo se vuelve muy interesante en esta propuesta y ha tenido mucha influencia en este proyecto. Enlace para jugar Nier:Cogito: https://silverstitch.itch.io/cogito
 
 **Motivación de la propuesta** 
 
-Es un acercamiento interactivo a una narración que puede ser cercana para algunas personas. 
-El atractivo que viene de la estética y atmósfera seleccionada se aprovecha en los temas tratados.
+Es un acercamiento interactivo a una narración que puede ser cercana para algunas personas. La inevitabilidad de la rutina en nuestra sociedad actual empeora por momentos, en ocasiones obligándonos a tomar las cosas de forma mecánica y apartar nuestras emociones para simplemente hacer lo que debemos. Para una persona que recién entra a una adultez en la que esto es animado y esperado, la pérdida del color de la infancia se vuelve mucho más amenazante. 
+El atractivo que viene de la estética y atmósfera seleccionada se aprovecha en los temas tratados para dar ese aire de derrota; hay una eventual resignación a vivir como se pueda y no como se quiera, una injusticia fundamental que no es evitable ni realista.
 
 
 **Publico / audiencia**
@@ -123,7 +129,7 @@ El minijuego no funciona tan fluido como se espera por limitaciones del propio p
 # 4. Conclusiones 
 
 Como acercamiento a la materia lo he visto muy interesante. 
-Es un tema que siempre me ha llamado la atención y considero que en mi voluntad de querer unirlo con una historia propia he aprendido bastente.
+Es un tema que siempre me ha llamado la atención y considero que en mi voluntad de querer unirlo con una historia propia he aprendido mucho.
 Mi mayor problema surge de las limitaciones del programa. Entiendo que no hay otro disponible para aprender ésto pero siento que habría aprovechado más de tener mejores herramientas.
 El resultado me ha sido satisfactorio. Me gustaría haberlo continuado con otras decisiones pero incluso así la única determinante sería la que ya está incluída. 
 La parte de la lógica en sí me ha resultado muy divertida. 
