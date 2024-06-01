@@ -41,7 +41,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 El trailer es una introducción al sistema de juego. El personaje se despierta y se prepara para comenzar su rutina.
 Tras una introducción se da paso al menú.
 
-![menu]()
+![menu](https://github.com/Hissz1/hissz1.github.io/blob/main/menu.png)
 
 Al comienzo del juego se repite una escena similar a la del trailer, con variación de texto. 
 El protagonista se encuentra inquieto por ser su cumpleaños, un cambio en la rutina que le mantiene cuerdo.
